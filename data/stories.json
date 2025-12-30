@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Đấu Phá Thương Khung",
+    "author": "Thiên Tàm Thổ Đậu",
+    "coverUrl": "https://img.dtruyen.com/public/images/large/dauphathuongkhungP1595304677.jpg",
+    "description": "Nơi đây là thuộc về Đấu Khí thế giới...",
+    "slug": "dau-pha-thuong-khung", 
+    "chap_count": 1600
+  },
+  {
+    "id": "2",
+    "title": "Phàm Nhân Tu Tiên",
+    "author": "Vong Ngữ",
+    "coverUrl": "https://img.dtruyen.com/public/images/large/phamnhantutienP1399368846.jpg",
+    "description": "Một thằng bé bình thường...",
+    "slug": "pham-nhan-tu-tien",
+    "chap_count": 2400
+  }
+]
